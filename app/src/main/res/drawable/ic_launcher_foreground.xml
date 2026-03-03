@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Sawit (Palm) Leaf Logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,25 C54,25 56,45 75,55 C56,50 54,75 54,75 C54,75 52,50 33,55 C52,45 54,25 54,25 Z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,35 C54,35 58,50 85,55 C58,55 54,85 54,85 C54,85 50,55 23,55 C50,50 54,35 54,35 Z"
+        android:fillAlpha="0.7"/>
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,45 C54,45 62,55 95,55 C62,60 54,95 54,95 C54,95 46,60 13,55 C46,55 54,45 54,45 Z"
+        android:fillAlpha="0.4"/>
+
+</vector>

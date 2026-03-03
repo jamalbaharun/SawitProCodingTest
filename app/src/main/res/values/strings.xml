@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Truck Weighbridge</string>
+    <string name="label_license_number">License Number</string>
+    <string name="label_driver_name">Driver Name</string>
+    <string name="label_inbound_weight">Inbound Weight (kg)</string>
+    <string name="label_outbound_weight">Outbound Weight (kg)</string>
+    <string name="label_net_weight">Calculated Net Weight</string>
+    <string name="btn_save_ticket">Save Ticket</string>
+    <string name="btn_sync_now">Sync Now</string>
+    <string name="menu_sort_date">Sort by Date</string>
+    <string name="menu_sort_driver">Sort by Driver</string>
+    <string name="menu_sort_license">Sort by License</string>
+    <string name="status_pending_sync">Pending Sync</string>
+    <string name="error_weight_mismatch">Outbound weight cannot exceed inbound weight</string>
+    <string name="error_invalid_license">Invalid License Number format</string>
+    <string name="error_empty_fields">Fields cannot be empty</string>
+    <string name="error_sync_failed">Sync failed: %s</string>
+    <string name="msg_local_save_success">Ticket saved locally, sync pending.</string>
+    <string name="title_new_ticket">New Ticket</string>
+    <string name="title_edit_ticket">Edit Ticket</string>
+    <string name="unit_kg">%s kg</string>
+</resources>
